@@ -1,4 +1,4 @@
-Access the website at : https://wendemsky.github.io/iNotebook
+Access the website at : https://wendemsky.github.io/iNotebook-gh-pages
 
 
 iNotebook is note taking application that allows you to take notes and access them from anywhere.
