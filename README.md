@@ -1,5 +1,7 @@
 Access the website at : https://wendemsky.github.io/iNotebook
 
+The backend cannot be hosted on gh-pages, so I wil try to host it one some other platform, If you have any suggestions regarding the same please do tell.
+
 
 iNotebook is note taking application that allows you to take notes and access them from anywhere.
 It has an authentication feature that allowes no one but you to access your notes.
