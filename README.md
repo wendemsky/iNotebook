@@ -1,3 +1,6 @@
+Access the website at : https://wendemsky.github.io/iNotebook
+
+
 iNotebook is note taking application that allows you to take notes and access them from anywhere.
 It has an authentication feature that allowes no one but you to access your notes.
 You can add, delete or update your notes through this application.
